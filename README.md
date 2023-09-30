@@ -11,3 +11,7 @@ make qemu
 提交测验 
 
 ./grade-lab-util sleep或make GRADEFLAGS=sleep grade
+
+清理文件系统
+
+make clean
