@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "user.h": "c",
+        "proc.h": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "string_view": "c"
+    }
+}
